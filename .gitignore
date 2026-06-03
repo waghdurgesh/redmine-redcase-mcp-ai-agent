@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.env
+
+certs/
+
+.vscode/
+.idea/
+
+Backup/
+ProtectedData.json
+
+config/redcase_config.json

@@ -1,0 +1,9 @@
+name: Redcase MCP Server
+version: 1.0.0
+schema: v1
+
+mcpServers:
+  - name: Redcase MCP
+    command: python
+    args:
+      - ./src/mcp_server.py

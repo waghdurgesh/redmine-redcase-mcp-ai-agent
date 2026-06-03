@@ -1,0 +1,27 @@
+{
+  "testcases": [
+    {
+      "title": "Verify Login Functionality",
+      "description": "Verify valid user login",
+
+      "priority_id": 3,
+
+      "preconditions": [
+        "Application is available",
+        "User account exists"
+      ],
+
+      "steps": [
+        "Navigate to login page",
+        "Enter username",
+        "Enter password",
+        "Click Login"
+      ],
+
+      "expected_results": [
+        "User is authenticated",
+        "Dashboard is displayed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ssl_cerificate": "./certs/redmine.crt",
+
+  "base_url": "https://your-redmine-instance.example.com",
+
+  "project_slug": "your_project_name",
+
+  "author_id": 1,
+  "tracker_id": 1,
+  "status_id": 1,
+  "priority_id": 3,
+
+  "test_suite_id": 1,
+
+  "authenticity_token": "",
+  "form_update_triggered_by": "",
+
+  "is_private": 0,
+
+  "assigned_to_id": "",
+  "fixed_version_id": "",
+  "parent_issue_id": "",
+
+  "start_date": "",
+  "due_date": "",
+  "estimated_hours": "",
+
+  "done_ratio": 0,
+
+  "subject": "Default Subject",
+  "description": "<p>Default Description</p>",
+
+  "preconditions": "<p>Default Preconditions</p>",
+  "steps": "<p>Default Steps</p>",
+  "expected_results": "<p>Default Expected Results</p>",
+
+  "watcher_user_ids": [1],
+
+  "commit": "Create",
+
+  "issue_template": "",
+  "template_search_filter": "",
+
+  "was_default_status": 1,
+
+  "dmsf_attachments": {
+    "dummy": {
+      "file": ""
+    }
+  },
+
+  "attachments": {
+    "dummy": {
+      "file": ""
+    }
+  }
+}
