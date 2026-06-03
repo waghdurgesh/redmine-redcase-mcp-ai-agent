@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-orange)
 
-# Redcase MCP
+
 
 Create Redcase test cases in Redmine directly from AI-generated test scenarios using the Model Context Protocol (MCP).
 
@@ -81,6 +81,8 @@ This MCP server:
 - Supports bulk testcase creation
 - Converts AI-generated test scenarios into Redcase-compatible payloads
 - Integrates with Continue and other MCP clients
+
+<img width="1536" height="1024" alt="redmine-redcase-mcp-ai-agent" src="https://github.com/user-attachments/assets/e98ae7bc-ba3f-4940-bee4-df82c29d8819" />
 
 ---
 
