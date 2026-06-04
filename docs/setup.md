@@ -46,7 +46,7 @@ Python 3.11.8
 Clone repository:
 
 ```bash
-git clone https://github.com/<your-org>/redcase-mcp.git
+git clone https://github.com/waghdurgesh/redmine-redcase-mcp-ai-agent.git
 ```
 
 Enter project:
