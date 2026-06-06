@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-orange)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=waghdurgesh&label=Repository%20Views&color=0e75b6&style=flat" alt="Repository Views" />
+</p>
 
 ### AI-Powered Redcase Testcase Automation using Continue + MCP + Python Agent
 
