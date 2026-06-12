@@ -8,10 +8,7 @@
 </p>
 
 ### AI-Powered Redcase Testcase Automation using Continue + MCP + Python Agent
-
-Create Redcase test cases in Redmine directly from AI-generated test scenarios using the Model Context Protocol (MCP).
-
-Redcase MCP bridges the gap between requirement analysis and test management by allowing AI assistants to generate high-quality QA test cases and automatically create them inside Redmine + Redcase.
+Redmine+Redcase MCP Server bridges the gap between requirement analysis and test management by allowing AI assistants to generate high-quality QA test cases and automatically create them inside Redmine + Redcase.
 
 <img width="1536" height="1024" alt="Redcase Ai TestCase Gen Title Image" src="https://github.com/user-attachments/assets/98d4fe95-a3ea-42c2-a650-fd8232f86cff" />
 
